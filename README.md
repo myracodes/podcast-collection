@@ -1,3 +1,13 @@
+# Exercice podcast-collection
+L'idée est de développer une petite bibliothèque de podcasts en client-side seulement. Pas besoin de base de données ni de code serveur.
+L'application doit permettre d'effectuer les actions suivantes :
+- Ajouter un podcast à ma bibliothèque (les champs seront un titre, une image)
+- Ajouter un épisode au sein d'un podcast (les champs épisode sont : un titre, une description et une date de publication)
+- Une page avec la liste de tous les épisodes que je peux filtrer avec un champ simple de recherche.
+
+Bonus:
+- un bouton pour exporter un fichier texte qui contient la liste des podcasts et épisodes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
